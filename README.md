@@ -1,3 +1,3 @@
-# ETS_PPL_CoffeeMachine_EventBasedDesign
+# ETS PPL CoffeeMachine EventBasedDesign
 Kelompok:
 1. Darren Prasetya (5025211162)
